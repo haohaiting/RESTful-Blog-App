@@ -12,7 +12,7 @@ Packages:
 ![blogs](/img/blog.png)
 ![newblog](/img/newblog.png)
 
-## :+1: REATful Routs
+## :+1: RESTful Routs
 > A table for all 7 RESTful routes
 
 Name    | Path	            | HTTP verb	| Purpose | Mongoose Method
